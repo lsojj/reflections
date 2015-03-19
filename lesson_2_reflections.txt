@@ -19,6 +19,8 @@ Branching can be useful for alternate version of a project i.e experimental feat
 
 How do the diagrams help you visualize the branch structure?
 
+A diagram makes the different levels of differenciation between branches clearer to see.It'sa sort of timeline of a history of a project.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

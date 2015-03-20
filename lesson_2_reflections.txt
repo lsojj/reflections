@@ -24,5 +24,7 @@ A diagram makes the different levels of differenciation between branches clearer
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Git tries to merge all the changes made in the two branches into a single one. One of the branch join the master one, so it looks like two branches of a tree joining in the diagram.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?

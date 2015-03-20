@@ -26,5 +26,7 @@ the diagram the way we do?
 
 Git tries to merge all the changes made in the two branches into a single one. One of the branch join the master one, so it looks like two branches of a tree joining in the diagram.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging saves a lot of time but can also introduce conflicts that have to be solved manually.

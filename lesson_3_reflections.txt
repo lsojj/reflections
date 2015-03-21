@@ -17,3 +17,7 @@ It allows the code to be accessed even when the user is offline.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Cloud storage services could be used such as Dropbox or Google Docs but the version control is not as advanced, allowing only to change one file at a time. It would make minute changes easier though since it wouldn't involve going back and forth between participants with pull requests.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If the changes are so many that they would need to be incorporated into a different version of the program while maintianing a more stable version of the program in master.
